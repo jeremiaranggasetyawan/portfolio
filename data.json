@@ -1,0 +1,78 @@
+{
+  "skills": {
+    "tech": ["Java", "Spring Boot", "Vue.js", "Tailwind CSS", "Python", "Django", "PostgreSQL", "Flutter", "Git & GitHub", "System Analysis & UML", "HTML", "Agile/Scrum"],
+    "soft": ["Problem Solving", "Critical Thinking", "Team Collaboration", "Leadership", "Time Management", "Problem Solving", "Analytical Thinking"]
+  },
+  "projects": [
+    {
+      "title": "PLN SIMPATI - Sistem Informasi Pemeliharaan Aset TI",
+      "role": "Project Lead & Full-Stack Developer",
+      "goal": "Ongoing web-based application developed to digitize and automate the IT asset maintenance workflows for PLN UPT Tanjung Priok.",
+      "images": ["/project/simpati/1.png", "/project/simpati/2.png", "/project/simpati/3.png"],
+      "techStack": ["Spring Boot", "Vue.js", "Tailwind CSS", "System Analysis"],
+      "color": "brand-400"
+    },
+    {
+      "title": "WaraWarung - Food Discovery Platform",
+      "role": "Project Lead & Full-Stack Developer",
+      "goal": "A food discovery platform aimed at locating local food vendors (Warung) across Bali. We successfully developed and integrated Django and Flutter.",
+      "images": ["/project/wara-warung/1.png", "/project/wara-warung/2.png"],
+      "techStack": ["Django", "HTML", "Tailwind CSS", "Flutter"],
+      "color": "purple-400"
+    },
+    {
+      "title": "Rehabin - Addiction Recovery Platform",
+      "role": "Full-Stack Developer",
+      "goal": "Django-based web application designed to support addiction recovery. The platform provides users with intuitive tracking tools to monitor their sobriety streaks and log relapse.",
+      "images": ["/project/rehabin/1.png", "/project/rehabin/2.png"],
+      "techStack": ["Django", "HTML", "Tailwind CSS", "Web Security"],
+      "color": "orange-400"
+    },
+    {
+      "title": "SIZOPI - Animal Zoo Management",
+      "role": "Full-Stack Developer",
+      "goal": "Zoo Management Information System built with a Django and PostgreSQL by providing core features for animal data management, veterinary medical records, and health check-up scheduling.",
+      "images": ["/project/sizopi/1.png", "/project/sizopi/2.png", "/project/sizopi/3.png"],
+      "techStack": ["Django", "HTML", "Tailwind CSS", "PostgeSQL"],
+      "color": "green-400"
+    }
+  ],
+  "experience": {
+    "volunteer": [
+      {
+        "title": "Core Curriculum Team",
+        "period": "Jan 2023 – Jan 2024",
+        "company": "Google Developer Student Club UI",
+        "description": "Leading the Web Development curriculum team and designing a one-year technical learning roadmap for club members. Facilitated weekly sessions on core web technologies for over 100 participants, creating educational materials and guiding members to successfully build functional web projects by the end of the program."
+      }
+    ],
+    "work": [
+      {
+        "title": "Technical IT Tutor",
+        "period": "Aug 2025 - May 2026",
+        "company": "Fasilkom Universitas Indonesia",
+        "description": "Technical tutorials on Fundamentals of Programming 1 (Python) and Computer Architecture to students, helping over 20 students improve their understanding of foundational software-hardware interfaces. "
+      },
+      {
+        "title": "Lecturer Assistant - Into to Statistics",
+        "period": "Aug 2025 – Dec 2025",
+        "company": "Fasilkom Universitas Indonesia",
+        "description": "Mentoring ±20 students in mastering fundamental statistical concepts and probability theories and evaluated statistics assignments and data interpretation exercises."
+      },
+      {
+        "title": "Lecturer Assistant - Programming Foundation 2",
+        "period": "Feb 2025 - Jun 2025",
+        "company": "Fasilkom Universitas Indonesia",
+        "description": "Mentored and supervised an intensive programming class of ±50 students, facilitating hands-on technical sessions. Conducted code reviews and evaluated weekly programming assignments for ±10 assigned students, achieving an 80% improvement in code logic optimization by the end of the semester."
+      }
+    ],
+    "education": [
+      {
+        "title": "Bachelor of Information Systems",
+        "period": "Aug 2023 - Aug 2027 (Expected)",
+        "company": "Universitas Indonesia",
+        "description": "<strong> • Current GPA:</strong> 3.85 / 4.00 (Term 1 - 5)\n<strong> • Relevant Coursework:</strong> Data Structures & Algorithms, Database Systems, Computer Architecture, Introductory Statistics, Information Systems Development Project, Artificial Intelligence & Data Science, and Platform-Based Programming."
+      }
+    ]
+  }
+}
